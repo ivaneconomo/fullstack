@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 23422,
+      "title": "Dolby Access",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.21701.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.0421202b-7cb3-4c03-839c-55ea25fd3bc9",
+        "https://store-images.s-microsoft.com/image/apps.52138.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.afabd8f4-d5a7-4804-9649-d0e39ecd2034",
+        "https://store-images.s-microsoft.com/image/apps.42937.13925855090824389.22c7efbb-27c0-4eda-bbc2-aaa9cb33277b.256ff81b-d602-47dc-9948-05b56ab2d826"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.44555.13925855090824389.09f473d9-ce97-499c-9d53-c21e8f64ee62.1f593a37-c65c-461c-9030-11d2da0d956b",
+      "desc": "Descargue Dolby Access para comenzar su prueba gratuita de Dolby Atmos for Headphones o configure un dispositivo Dolby Atmos. Escuche una impactante experiencia llena de matices, precisión y realismo en sus juegos, películas y programas con sonido que fluye a su alrededor, incluso encima y detrás de usted.",
+      "quantity": 3,
+      "price": 15
+    },
+    {
+      "id": 34222,
+      "title": "Adobe Lightroom",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.27868.14342243069623811.db6b56cb-a750-4e32-a772-a3ee230fbe29.7383d97a-9415-49a3-aa54-eaa2ba3d7695",
+        "https://store-images.s-microsoft.com/image/apps.21162.14342243069623811.db6b56cb-a750-4e32-a772-a3ee230fbe29.6a9cdee7-3793-435c-a918-8e269e788866",
+        "https://store-images.s-microsoft.com/image/apps.19077.14342243069623811.db6b56cb-a750-4e32-a772-a3ee230fbe29.2cf5d607-2215-4373-94e3-617c58722c87"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.6217.14342243069623811.10291b9b-0850-4e04-8dfe-9afad2baff7b.e2b6f208-48d2-4bb9-b893-b934b7e7044c?w=120",
+      "desc": "Adobe Acrobat Reader DC is the free, trusted global standard for viewing, printing, e-signing, sharing, and annotating PDFs. Open and interact with all types of PDF content including forms and multimedia.",
+      "quantity": 21,
+      "price": 7
+    },
+    {
+      "id": 34223,
+      "title": "Adobe Express",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.38058.14075264175091512.e6069598-be57-4d96-bc28-bbca35469576.5f416d85-338a-4b43-b173-dac5cef63cf6?h=787",
+        "https://store-images.s-microsoft.com/image/apps.58205.14075264175091512.e6069598-be57-4d96-bc28-bbca35469576.c954c06e-4bd6-4dbf-9b48-e1786ce2e2c2?h=787",
+        "https://store-images.s-microsoft.com/image/apps.61193.14075264175091512.8fb2e234-00ba-4c63-99c8-0721f6f90049.01a28bd9-0d2c-43b8-91bf-90086f3b7b17?h=787"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.48249.14075264175091512.e6069598-be57-4d96-bc28-bbca35469576.15acb55f-0e71-4ece-a5ac-d02eeefef83f?w=120",
+      "desc": "Adobe Express te permite crear fácil y rápido impresionantes gráficos para redes sociales, folletos, logos y más en la web y dispositivos móviles. Sin necesidad de tener habilidades de diseño y comenzar es gratis. Siente que tienes la ayuda de un diseñador de confianza a medida que añades imágenes, pruebas diferentes diseños, añades texto a fotos y aplicas efectos y filtros al instante.",
+      "quantity": 19,
+      "price": 6
+    },
+    {
+      "id": 34224,
+      "title": "Adobe Photoshop Elements",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.36455.14393244572370593.367b0428-820d-49e5-bc4b-495fad537b43.73eff602-152a-4a3d-933f-bf79983ef9e9?h=787",
+        "https://store-images.s-microsoft.com/image/apps.12525.14393244572370593.367b0428-820d-49e5-bc4b-495fad537b43.4e8189a0-ed17-4aec-b5c2-baa54cf5d300?h=787",
+        "https://store-images.s-microsoft.com/image/apps.38473.14393244572370593.367b0428-820d-49e5-bc4b-495fad537b43.db51a35e-5fc2-4d23-a129-af2484f50431?h=787"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.51821.14393244572370593.367b0428-820d-49e5-bc4b-495fad537b43.c83b42cd-5aee-4430-9b52-b8e8d453d5d6?w=120",
+      "desc": "Adobe Photoshop Elements es un software de edición de fotografías que está diseñado para usuarios no profesionales y entusiastas de la fotografía que desean editar y mejorar sus imágenes de manera fácil y rápida. El software cuenta con una amplia gama de herramientas de edición, como ajustes de color y tono, eliminación de manchas y ojos rojos, recorte y redimensionamiento, entre otros.",
+      "quantity": 22,
+      "price": 5
+    },
+    {
+      "id": 34225,
+      "title": "Adobe Acrobat Reader DC",
+      "img": [
+        "https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRfpI0qCMmdkqHsRzCOxK8yEaE1wwQ3AU0jHhzgL0Mdm.35oOO8nsf_IzejpQK.BbQjbpwa7V6dhSf8vX4lI3diQ--&h=768",
+        "https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRfpI0qCMmdkqHsRzCOxK8yKng9JjiWHChjNP41WnWI28qq2E_8BICFo5xgRHTIg.G6OtcO5OFH4H6wefdC2fdJQ--&h=768",
+        "https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRfpI0qCMmdkqHsRzCOxK8yAJmSfYY1L2wiUaDLrUVPOIiJ0VEpEy57rwruU5Es7LVL.WzYUpTQHX_EYYtKjAhEw--&h=768"
+      ],
+      "icon": "https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRfpI0qCMmdkqHsRzCOxK8yLhabDHLRitQP8MJGNbGeAnvFGCQxJNFZjvsD2cveznOTkQIq7wVu6FvnDIs21_How--&format=source&w=120",
+      "desc": "Acrobat Reader DC proporciona una amplia gama de herramientas para leer y manipular documentos PDF, como herramientas de búsqueda, navegación por páginas, marcadores, lupa, ajuste de vista y muchas más. Además, los usuarios también pueden agregar comentarios y notas a los documentos PDF, firmar digitalmente los documentos, proteger con contraseña los documentos y enviarlos para revisión.",
+      "quantity": 10,
+      "price": 3
+    },
+    {
+      "id": 32344,
+      "title": "iTunes",
+      "img": [
+        "https://store-images.s-microsoft.com/image/apps.63781.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.09c92d5c-0944-4630-b261-213a099e1b88",
+        "https://store-images.s-microsoft.com/image/apps.18816.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.bd65a784-12ae-49b0-bcba-b0442884208f",
+        "https://store-images.s-microsoft.com/image/apps.34300.14127333176902609.fa1c97a7-6019-4921-b6eb-d0f87dd6a68c.d9c1b18f-a60e-4ed8-ae2c-fca83ae5aef6"
+      ],
+      "icon": "https://store-images.s-microsoft.com/image/apps.40518.14127333176902609.7be7b901-15fe-4c27-863c-7c0dbfc26c5c.5c278f58-912b-4af9-88f8-a65fff2da477",
+      "desc": "iTunes es la manera más fácil de disfrutar de la música, las películas o los programas de televisión que más te gustan y de organizar todos tus contenidos fácilmente. Compra o alquila películas, descarga tus programas de televisión favoritos y mucho más. En iTunes también encontrarás Apple Music, donde podrás escuchar millones de canciones y toda tu biblioteca musical sin anuncios. Además, puedes descargar tu música favorita para escucharla cuando no estés conectado a una red Wi-Fi. Pruébalo gratis sin compromiso.",
+      "quantity": 34,
+      "price": 23
+    }
+  ],
+  "users": [
+    {
+      "name": "Ivan",
+      "lastName": "Economo",
+      "email": "ivan.economo39@gmail.com",
+      "password": "Asd123@",
+      "passwordCheck": "Asd123@",
+      "id": 1
+    },
+    {
+      "name": "Ivan",
+      "lastName": "Economo",
+      "email": "ivan.economo39@gmail.com",
+      "password": "Asd123@",
+      "passwordCheck": "Asd123@",
+      "id": 2
+    }
+  ]
+}
