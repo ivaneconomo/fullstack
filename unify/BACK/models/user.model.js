@@ -18,6 +18,10 @@ const userSchema = Schema(
       type: String,
       required: true,
     },
+    lang: {
+      type: String,
+      default: 'es',
+    },
     cart: {
       type: Array,
       default: [],

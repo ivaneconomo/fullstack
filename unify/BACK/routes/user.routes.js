@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const { body } = require('express-validator');
+const { body, check } = require('express-validator');
 const {
   getAllUsers,
   getUserById,
@@ -8,7 +8,7 @@ const {
   deleteUser,
   disableUser,
 } = require('../controllers/user.controllers');
-const { emailValidation, nameValidation } = require('../helpers/valitadions');
+const { emailValidation } = require('../helpers/valitadions');
 
 const route = Router();
 
@@ -57,6 +57,18 @@ route.post(
     .withMessage('La contraseña debe tener al menos 8 caracteres.')
     .matches(/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,50}$/)
     .withMessage('La contraseña debe tener letras y números.'),
+  check('lang')
+    .isIn(['es', 'en'])
+    .withMessage('El idioma debe ser español o inglés.'),
+  body('cart')
+    .not().exists()
+    .withMessage('No puede ingresar valores a esta propiedad.'),
+  body('disabled')
+    .not().exists()
+    .withMessage('No puede ingresar valores a esta propiedad.'),
+  body('roleAdmin')
+    .not().exists()
+    .withMessage('No puede ingresar valores a esta propiedad.'),
   createUser
 );
 
