@@ -70,10 +70,10 @@ export default function RegisterFormNuevo() {
         <Col xs={12} sm={12} md={9} lg={6}>
           <Form
             onSubmit={handleSubmit(onSubmit)}
-            className='d-flex flex-column gap-2 m-5 border rounded shadow p-3'
+            className='d-flex flex-column gap-2 border rounded shadow p-3'
           >
             <h2 className='border-bottom pb-3'>Registro</h2>
-            <div className='d-flex gap-2'>
+            <div className='d-flex gap-2 justify-content-between'>
               <Form.Group>
                 <Form.Label>Nombre</Form.Label>
                 <Form.Control
